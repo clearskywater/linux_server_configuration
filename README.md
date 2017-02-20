@@ -1,5 +1,7 @@
 # Linux Server Configuration Project
 
+# Took a baseline installation of a Linux distribution on a virtual machine and prepared it to host a web applications including installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
+
 # IP address: http://35.161.133.72
 
 # Port: 2200
